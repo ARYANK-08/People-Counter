@@ -72,7 +72,7 @@ def non_max_supression_fast(boxes,overlapThresh):
 
 
 def main() :
-    cap=cv2.VideoCapture("testvideo2.mp4") #give any video input or use cap=cv2.VideoCaputer(0) to detect using webcam
+    cap=cv2.VideoCapture(0) #give any video input or use cap=cv2.VideoCaputer(0) to detect using webcam
     fps_start=datetime.datetime.now()
     fps=0
     total_frames=0
