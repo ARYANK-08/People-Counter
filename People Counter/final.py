@@ -11,7 +11,7 @@ import psycopg2.extras
 hostname = 'localhost'
 database='postgres'
 username='postgres'
-pwd='Infotech@06'
+pwd='password'
 port_id=5432
 conn=None
 cur=None
