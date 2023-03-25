@@ -11,6 +11,7 @@ Vehicle Counting Applications :
 
 ➼Advertising: As mentioned earlier, vehicle counting can be used as part of billboard analytics to estimate the number of impressions an advertisement is making
 
+![Screenshot 2023-03-26 023852](https://user-images.githubusercontent.com/120780784/227742431-d649612d-d205-4a76-89ab-1b1c2888d24d.png)
 
 
 
@@ -20,7 +21,6 @@ Vehicle Counting Applications :
 
 
 
-[Screenshot 2023-03-26 023852](https://user-images.githubusercontent.com/120780784/227742431-d649612d-d205-4a76-89ab-1b1c2888d24d.png)
 
 
 Download video from here mentioned in the vehicle.py ('cv2.VideoCapture('video.mp4'):
