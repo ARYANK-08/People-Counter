@@ -2,6 +2,7 @@
 ➡In this project, we have implemented a racing game where the virtual steering wheel is used to control the car's steering.
 
 ➡Once the object is detected, the user can use it to control the car's steering by rotating the object left or right.
+
 ➡The rotation of the object is tracked in real-time, and the car's steering angle is adjusted accordingly.
 
 
@@ -10,6 +11,7 @@
 
 
 ➡This project demonstrates how to use OpenCV to create a virtual steering wheel that can be used to control a game.
+
 ➡The project uses a webcam to capture video input, and then uses OpenCV's computer vision capabilities to detect the 
 position and orientation of a real steering wheel or other object.
 
