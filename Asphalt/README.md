@@ -5,7 +5,8 @@
 
 ➡The rotation of the object is tracked in real-time, and the car's steering angle is adjusted accordingly.
 
-
+➡Entertainment: Virtual steering can be used in video games and simulation experiences.
+Games like racing simulators can give players the sensation of driving a real car, by using virtual steering as a control mechanism.
 
 ➡Used to play racing games using virtual Steering .
 
